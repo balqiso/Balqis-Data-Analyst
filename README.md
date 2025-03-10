@@ -1,4 +1,4 @@
-# 👋 Hi, I'm Ahmed!  
+# 👋 Hi, I'm Balqis
 
 ## 💡 Who Am I?  
 I’m a **Data Analyst** passionate about turning raw data into actionable insights. I specialize in **data cleaning, analysis, and visualization** for business decision-making.  
