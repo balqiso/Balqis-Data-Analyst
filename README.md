@@ -3,7 +3,7 @@
 ## 💡 Who Am I?  
 I’m a **Data Analyst** passionate about turning raw data into actionable insights. I specialize in **data cleaning, analysis, and visualization** for business decision-making.  
 
-## 🛠️ What I Do?  
+## 🛠️ What I Do? 
 - Transform messy data into meaningful insights  
 - Write complex **SQL queries** for data extraction  
 - Develop **interactive dashboards** using Power BI & Tableau  
